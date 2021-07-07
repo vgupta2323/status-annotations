@@ -18,7 +18,7 @@
 	//define all of the status that you want here
 	let statuses = [
 		{
-			'title': 'In progress',
+			'title': 'CUSTOM LABEL',
 			'icon': iconInProgress,
 			'color': '#E93940'
 		},
